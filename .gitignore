@@ -13,3 +13,9 @@ crash.*.log
 crash.log
 crash.*.log
 
+# Terraform
+EKS_Terraform/.terraform/
+EKS_Terraform/*.tfstate
+EKS_Terraform/*.tfstate.*
+EKS_Terraform/crash.log
+EKS_Terraform/crash.*.log
