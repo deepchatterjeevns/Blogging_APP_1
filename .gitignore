@@ -5,3 +5,11 @@
 *.tfstate.*
 crash.log
 crash.*.log
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+
